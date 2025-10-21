@@ -51,7 +51,7 @@ Y= A⊕B
 
 **Procedure** 
 
-1.	Type the program in Quartus software.
+1.	Type the program in Quartus software
 
 2.	Compile and run the program.
 
